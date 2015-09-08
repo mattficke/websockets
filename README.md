@@ -1,4 +1,7 @@
 # websockets
+## Installation
+  Clone the repo, run `npm install`, then run `nodemon` or `node index.js` from the command line. Site will be available at `localhost:3000`
+
 ## Why did you choose this subject?
   I'm interested in the interaction between the front end and back end, and this is a cool technology that handles that interaction in a way that's different from standard HTTP.
 ## How were you first made aware of it?
